@@ -1,0 +1,1 @@
+This repository demonstrates an example of an unintended latch in VHDL. The original code suffers from a subtle issue where a signal isn't properly assigned within a process, leading to unpredictable results.  The solution shows how to correctly manage signals to avoid such latches.  This issue highlights the importance of careful signal handling in VHDL designs.
